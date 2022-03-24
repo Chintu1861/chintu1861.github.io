@@ -1026,7 +1026,12 @@ a:active.learn-btn{
 	opacity: 1;
 }/*team-box-inner*/
 .single-team-box:hover .team-box-inner{
-	height: 50px;
+	height: 100px;
+}
+.single-team-box:hover .team-box-inner p{
+	font-size: 27px;
+	color: blue;
+	text-align: center;
 }
 
 /*-------------------------------------
